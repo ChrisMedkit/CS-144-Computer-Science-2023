@@ -1,6 +1,6 @@
 # CS Intro Programming (Java)
 
-Coursework from **[Term, Year]** at **[School Name]**.
+Coursework from **2023** at **UW-Stout**.
 
 These are small programs from an introductory Java course, focused on
 object-oriented basics: classes, constructors, methods, arrays, and testing

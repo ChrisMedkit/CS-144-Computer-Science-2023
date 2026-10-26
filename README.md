@@ -1,4 +1,4 @@
-# CS Intro Programming (Java)
+# CS-144 Computer Science 1 (Java)
 
 Coursework from **2023** at **UW-Stout**.
 

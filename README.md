@@ -10,9 +10,9 @@ a class with a driver program.
 
 | Folder | Topic | Concepts practiced |
 |--------|-------|--------------------|
-| [`fan /`](fan code) | `Fan` class and driver | Constructors, instance variables, methods that return values |
-| [`song /`](song code) | `Song` class and tester | Overloaded constructors, getters/setters, `toString()` |
-| [`circle /`](circle code) | `Circle` class and tester | `Math` methods, object references, arrays of objects |
+| [`fan /`](fan) | `Fan` class and driver | Constructors, instance variables, methods that return values |
+| [`song /`](song) | `Song` class and tester | Overloaded constructors, getters/setters, `toString()` |
+| [`circle /`](circle) | `Circle` class and tester | `Math` methods, object references, arrays of objects |
 | [`review/`](Review) | Array review | Large arrays, seeded `Random` |
 
 
